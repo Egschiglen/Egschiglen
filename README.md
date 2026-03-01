@@ -100,14 +100,9 @@ Supports two modes:
 ## 📈 GitHub Stats
 
 <p align="center">
-  <!-- Основная статистика -->
-  <img height="120" src="https://github-readme-stats-eight-beryl.vercel.app/api?username=Egschiglen&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-  
-  <!-- Топ языков -->
-  <img height="120" src="https://github-readme-stats-eight-beryl.vercel.app/api/top-langs/?username=Egschiglen&layout=compact&theme=radical&langs_count=6" />
-
-  <!-- Стрик -->
-  <img height="120" src="https://github-readme-streak-stats.herokuapp.com/?user=Egschiglen&theme=radical" />
+  <img height="110" src="https://github-readme-stats-eight-beryl.vercel.app/api?username=Egschiglen&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+  <img height="110" src="https://github-readme-stats-eight-beryl.vercel.app/api/top-langs/?username=Egschiglen&layout=compact&theme=radical&langs_count=6" />
+  <img height="110" src="https://github-readme-streak-stats.herokuapp.com/?user=Egschiglen&theme=radical" />
 </p>
 
 ---
