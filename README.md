@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Aleksey%20(Egschiglen)&fontSize=35&color=0:1e3c72,100:2a5298" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=Aleksey%20(Egschiglen)&fontSize=40&color=0:1e3c72,100:2a5298&fontColor=f0f0f0" />
 </p>
 
 <h3 align="center">AI • Automation • LLM • Prompt Engineering</h3>
@@ -41,19 +41,17 @@ Growing step by step toward freelance and AI-driven solutions.
 
 ## 🛠 Tech Stack
 
-<p>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/GigaChat-1E90FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/ChromaDB-000000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/GigaChat-1E90FF?style=flat" height="30" />
+  <img src="https://img.shields.io/badge/ChromaDB-E34F26?style=flat" height="30" />
+  <img src="https://img.shields.io/badge/RAG-FF6F00?style=flat" height="30" />
+  <img src="https://img.shields.io/badge/PyQt6-41CD52?style=flat&logo=qt&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="30" />
 </p>
 
 ---
@@ -101,21 +99,33 @@ Supports two modes:
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Egschiglen&show_icons=true&theme=default&cache_seconds=1800" />
+  <img height="180" src="https://github-readme-stats-mu-ten.vercel.app/api?username=Egschiglen&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+  <img height="180" src="https://github-readme-stats-mu-ten.vercel.app/api/top-langs/?username=Egschiglen&layout=compact&theme=radical&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Egschiglen&layout=compact&cache_seconds=1800" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Egschiglen&theme=radical" />
+  <img height="180" src="https://github-profile-trophy.vercel.app/?username=Egschiglen&theme=radical&row=1&column=7" />
 </p>
+
 ---
 
-## 📫 Contact
+## 📫 Contacts
 
-📨 Email: msc.tinkov.a@gmail.com  
-💬 Telegram: https://t.me/Egschiglen
+<p align="center">
+  <a href="mailto:msc.tinkov.a@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="40" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://t.me/Egschiglen">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" height="40" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=120&section=footer" alt="Footer" />
 </p>
