@@ -58,7 +58,7 @@ Growing step by step toward freelance and AI-driven solutions.
 
 ## 🚀 Projects
 
-### 🔍 Audit of Methodological Agencies  
+### [🔍 Audit of Methodological Agencies](https://github.com/Egschiglen/Audit-methodological_agencies)
 Full-stack AI MVP for analyzing methodological agencies as business products.
 
 Multimodal analysis:
@@ -73,11 +73,11 @@ Focus:
 
 Vertical AI tool in the field of competitive intelligence.
 
-🔗 https://github.com/Egschiglen/Audit-methodological_agencies
+[![Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?logo=github&logoColor=white)](https://github.com/Egschiglen/Audit-methodological_agencies)
 
 ---
 
-### 📚 RAG System (OpenAI + GigaChat)
+### [📚 RAG System (OpenAI + GigaChat)](https://github.com/Egschiglen/rag-zerocoder-edu-gigachat_physics)
 
 Production-ready Retrieval-Augmented Generation system.
 
@@ -92,7 +92,8 @@ Supports two modes:
 - assistant_api (OpenAI)  
 - assistant_giga (GigaChat)
 
-🔗 https://github.com/Egschiglen/rag-zerocoder-edu-gigachat_physics
+[![Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?logo=github&logoColor=white)](https://github.com/Egschiglen/rag-zerocoder-edu-gigachat_physics)
+
 
 ---
 
