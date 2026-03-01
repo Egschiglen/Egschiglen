@@ -100,13 +100,14 @@ Supports two modes:
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats-mu-ten.vercel.app/api?username=Egschiglen&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-  <img height="180" src="https://github-readme-stats-mu-ten.vercel.app/api/top-langs/?username=Egschiglen&layout=compact&theme=radical&langs_count=8" />
-</p>
+  <!-- Основная статистика -->
+  <img height="120" src="https://github-readme-stats-eight-beryl.vercel.app/api?username=Egschiglen&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+  
+  <!-- Топ языков -->
+  <img height="120" src="https://github-readme-stats-eight-beryl.vercel.app/api/top-langs/?username=Egschiglen&layout=compact&theme=radical&langs_count=6" />
 
-<p align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Egschiglen&theme=radical" />
-  <img height="180" src="https://github-profile-trophy.vercel.app/?username=Egschiglen&theme=radical&row=1&column=7" />
+  <!-- Стрик -->
+  <img height="120" src="https://github-readme-streak-stats.herokuapp.com/?user=Egschiglen&theme=radical" />
 </p>
 
 ---
