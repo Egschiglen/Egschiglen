@@ -1,16 +1,71 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Alexey%20(Egschiglen)&fontSize=35" />
+</p>
 
-<!--
-**Egschiglen/Egschiglen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">AI • Automation • LLM • Prompt Engineering</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  🧠 Prompt Engineering Student  
+  ⚙️ AI Automation Explorer  
+  🚀 Building intelligent workflows  
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 О себе
+
+Я студент курса по промпт-инженерингу в университете Zerocoder.
+
+Фокусируюсь на:
+- работе с LLM
+- автоматизации процессов
+- API-интеграциях
+- построении AI workflow
+
+Постепенно формирую портфолио и развиваюсь в сторону AI-решений и фриланс-проектов.
+
+---
+
+## 🌍 About Me
+
+Prompt Engineering student focused on:
+
+- LLM-based systems  
+- AI-powered automation  
+- API integrations  
+- Intelligent workflows  
+
+Growing step by step toward freelance and AI-driven solutions.
+
+---
+
+## 🛠 Tech Stack
+
+🐍 Python  
+🔗 n8n  
+🧠 ChromaDB  
+🤖 OpenAI API  
+💬 GigaChat  
+🌐 HTML / JavaScript  
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Egschiglen&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Egschiglen&layout=compact" />
+</p>
+
+---
+
+## 📫 Contact
+
+📨 Email: msc.tinkov.a@gmail.com  
+💬 Telegram: https://t.me/Egschiglen
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer"/>
+</p>
